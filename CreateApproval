@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T09:47:21.158Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="0iYpkBcU36Ph_pEn82RQ" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T09:47:55.355Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="HYnF4Pi9neneCwiEXi3Z" version="13.6.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="3953" dy="3499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2372" dy="2567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,7 +133,7 @@
         <mxCell id="1lDg2ihYh7YWok6JiJQP-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="eC9c1WuZmiZ8urC7hAxt-4" source="1lDg2ihYh7YWok6JiJQP-36" target="1lDg2ihYh7YWok6JiJQP-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1lDg2ihYh7YWok6JiJQP-36" value="Xem đơn từ" style="whiteSpace=wrap;html=1;rounded=1;fontSize=13;" vertex="1" parent="eC9c1WuZmiZ8urC7hAxt-4">
+        <mxCell id="1lDg2ihYh7YWok6JiJQP-36" value="Xem đơn" style="whiteSpace=wrap;html=1;rounded=1;fontSize=13;" vertex="1" parent="eC9c1WuZmiZ8urC7hAxt-4">
           <mxGeometry x="160" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1lDg2ihYh7YWok6JiJQP-38" value="Đơn từ" style="shape=note;whiteSpace=wrap;size=16;html=1;dropTarget=0;" vertex="1" parent="eC9c1WuZmiZ8urC7hAxt-4">
