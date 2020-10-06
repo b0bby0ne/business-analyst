@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T03:20:03.794Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="2CoPuFvNx6eoEyXIwQK3" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T09:36:19.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Tkd4h1eB7KpnUJQMM1Pe" version="13.7.7" type="github">
   <diagram id="0C71sQ90mjB7CFkFRhVX" name="Page-1">
     <mxGraphModel dx="1186" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,11 +45,11 @@
         <mxCell id="VnPFvk-Zc8syYBlfKNiE-7" value="Quản lý nghỉ phép" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h50AzfO2ARblxxyRYbxP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="h50AzfO2ARblxxyRYbxP-1" target="VnPFvk-Zc8syYBlfKNiE-7">
+        <mxCell id="h50AzfO2ARblxxyRYbxP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="h50AzfO2ARblxxyRYbxP-1" target="VnPFvk-Zc8syYBlfKNiE-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h50AzfO2ARblxxyRYbxP-1" value="Hợp đồng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
