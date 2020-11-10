@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T03:46:53.088Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="Bt34ZFQF1zA8XT9ZA5ku" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T06:59:04.948Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="Fgri72yt9Xa299Wz5_bD" version="13.9.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2408" dy="1991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3049" dy="1991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -36,10 +36,10 @@
           <mxGeometry x="1620" y="140" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="e6MpmnbMo23s56DdzThr-45" value="Nghỉ phép" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1110" y="140" width="80" height="100" as="geometry" />
+          <mxGeometry x="1260" y="140" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="e6MpmnbMo23s56DdzThr-46" value="Bảng nghỉ phép" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1090" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="1240" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e6MpmnbMo23s56DdzThr-57" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="-990" y="150" width="120" height="620" as="geometry" />
@@ -171,41 +171,44 @@
         <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4Uz1Zi8Dorlpba0Y4oC5-0" target="4Uz1Zi8Dorlpba0Y4oC5-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-0" value="Tạo ngày nghỉ lễ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-0" value="Tạo ngày nghỉ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="840" y="390" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-1" value="Nghỉ lễ" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-1" value="Ngày nghỉ" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="860" y="520" width="80" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4Uz1Zi8Dorlpba0Y4oC5-2" target="4Uz1Zi8Dorlpba0Y4oC5-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-2" value="Tạo ngày nghỉ sự kiện" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="840" y="690" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-3" value="Nghỉ sự kiện" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="860" y="820" width="80" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4Uz1Zi8Dorlpba0Y4oC5-4" target="4Uz1Zi8Dorlpba0Y4oC5-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-4" value="Tạo ngày nghỉ bất thường" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="840" y="990" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-5" value="Nghỉ bất thường" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="860" y="1120" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-9" value="Thống kế chấm công" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1603" y="380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-10" value="Thống kê nghỉ phép" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1090" y="390" width="120" height="80" as="geometry" />
+          <mxGeometry x="1240" y="390" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-11" value="&lt;ul&gt;&lt;li&gt;Ngày làm việc: 2 - 6, 2 ngày thứ 7&lt;/li&gt;&lt;li&gt;&lt;span&gt;Ca làm việc&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Sáng: 8h30 - 12h00&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Chiều: 13h30 - 17h30&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Làm thêm giờ&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Làm thêm &amp;lt;= 0.5 * chính thức (giờ)&lt;/li&gt;&lt;li&gt;Làm thêm + chính thức &amp;lt;= 12 (giờ) / ngày&lt;/li&gt;&lt;li&gt;Làm thêm &amp;lt;= 30 (giờ)/ tuần&lt;/li&gt;&lt;li&gt;Làm thêm &amp;lt;= 200 (giờ)/ năm&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="-180" width="360" height="220" as="geometry" />
+        <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4Uz1Zi8Dorlpba0Y4oC5-11" target="4Uz1Zi8Dorlpba0Y4oC5-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-11" value="&lt;ul&gt;&lt;li&gt;Ngày làm việc: 2 - 6, 2 ngày thứ 7&lt;/li&gt;&lt;li&gt;&lt;span&gt;Ca làm việc&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Sáng: 8h30 - 12h00&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Chiều: 13h30 - 17h30&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Làm thêm giờ&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Làm thêm &amp;lt;= 0.5 * chính thức (giờ)&lt;/li&gt;&lt;li&gt;Làm thêm + chính thức &amp;lt;= 12 (giờ) / ngày&lt;/li&gt;&lt;li&gt;Làm thêm &amp;lt;= 30 (giờ)/ tuần&lt;/li&gt;&lt;li&gt;Làm thêm &amp;lt;= 200 (giờ)/ năm&lt;/li&gt;&lt;li&gt;Tính công = Số giờ làm thêm * hệ số công&lt;/li&gt;&lt;li&gt;Hệ số công ngày làm việc = 1.5, hệ số công ngày lễ = 3, hệ số công ngày nghỉ = 2 (công làm thêm)&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="-360" width="420" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4Uz1Zi8Dorlpba0Y4oC5-12" target="4Uz1Zi8Dorlpba0Y4oC5-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-12" value="&lt;ul&gt;&lt;li&gt;Phép năm: 1/1 - 31/12 dương lịch&lt;/li&gt;&lt;li&gt;Thời gian làm việc &amp;gt;=12 tháng&lt;/li&gt;&lt;ul&gt;&lt;li&gt;12 phép mỗi năm&amp;nbsp;&lt;/li&gt;&lt;li&gt;Phép cộng thêm = Số năm làm việc / 2&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Thời gian làm việc &amp;lt;=12 tháng&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Số phép = Số tháng làm việc chính thức + số tháng thử việc&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;b&gt;*Điều kiện sử dụng phép ?&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Ứng lương:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Số tiền ứng &amp;gt;= Lương (ngày nghỉ) * số ngày nghỉ.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Người lao động vùng xa (miền núi, hải đảo, vùng cao,...) - Số tiền ứng = Tiền tàu xe + tiền lương ngày đi đường &lt;b&gt;*Tiền lương của giờ đi đường hay ngày đi đường ??&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Phép luỹ kế = 0&amp;nbsp;&lt;/li&gt;&lt;li&gt;Nghỉ việc riêng được hưởng lương&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Bộ phận HR kiểm tra đơn và Dánh dấu thủ công (hệ thống không tự động xử lý)&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1000" y="-490" width="340" height="520" as="geometry" />
+          <mxGeometry x="1150" y="-490" width="340" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4Uz1Zi8Dorlpba0Y4oC5-13" target="4Uz1Zi8Dorlpba0Y4oC5-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-13" value="&lt;ul&gt;&lt;li&gt;UX: Bỏ phân loại ngày nghỉ. Chỉ coi là ngày nghỉ. Nghỉ bất thường/ Lễ/ Sự kiện là loại thuộc tính của ngày nghỉ&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tính công&lt;/b&gt;: Có/Không&lt;/li&gt;&lt;/ul&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="-180" width="280" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-14" value="&amp;nbsp;Chấm công" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="860" y="-350" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-16" value="&amp;nbsp;Chấm công" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="-560" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-18" value="&amp;nbsp;Chấm công" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1280" y="-700" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
