@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T04:04:46.773Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="Ra0XCDwmMjirB_qNOOZO" version="13.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T04:26:06.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="pVyIx73GfWrF0Bytl78P" version="13.9.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2840" dy="1868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -261,13 +261,13 @@
         <mxCell id="4Uz1Zi8Dorlpba0Y4oC5-32" value="Duyệt đơn xin đi muộn/ về sớm" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2510" y="790" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="P6yN6gFKFcL5MRALm6-v-0" value="&lt;ul&gt;&lt;li&gt;Tính công làm thêm theo công thức làm thêm giờ và thời gian hiệu lực của đơn&amp;nbsp;&lt;/li&gt;&lt;li&gt;Cập nhật bảng tính công&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="P6yN6gFKFcL5MRALm6-v-0" value="&lt;ul&gt;&lt;li&gt;Tính công làm thêm theo công thức làm thêm giờ và thời gian hiệu lực của đơn&amp;nbsp;&lt;/li&gt;&lt;li&gt;Cập nhật bảng tính công&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Trường hợp thời gian hiệu lực &amp;gt; thời gian hiện tại. Tạm thời bỏ qua tính toán cho ngày đó&amp;nbsp; &amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="1030" width="230" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="P6yN6gFKFcL5MRALm6-v-2" value="&lt;ul&gt;&lt;li&gt;Trừ phép trong bảng tính phép (nếu còn phép)&lt;/li&gt;&lt;li&gt;Tính công cho những ngày phép (nếu còn phép)&lt;/li&gt;&lt;/ul&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="P6yN6gFKFcL5MRALm6-v-2" value="&lt;ul&gt;&lt;li&gt;Trừ phép trong bảng tính phép (nếu còn phép)&lt;/li&gt;&lt;li&gt;Tính công cho những ngày phép (nếu còn phép)&lt;/li&gt;&lt;li&gt;Trường hợp thời gian hiệu lực &amp;gt;= thời gian hiện tại. Tạm thời bỏ qua tính toán cho ngày đó&amp;nbsp; &amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1775" y="1020" width="230" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="P6yN6gFKFcL5MRALm6-v-3" value="&lt;ul&gt;&lt;li&gt;Trừ số thời gian đi muộn/về sớm tương ứng trên đơn (nếu có)&lt;/li&gt;&lt;/ul&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="P6yN6gFKFcL5MRALm6-v-3" value="&lt;ul&gt;&lt;li&gt;Trừ số thời gian đi muộn/về sớm tương ứng trên đơn (nếu có)&lt;/li&gt;&lt;li&gt;Trường hợp thời gian hiệu lực &amp;gt;= thời gian hiện tại. Tạm thời bỏ qua tính toán cho ngày đó&amp;nbsp; &amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2455" y="980" width="230" height="290" as="geometry" />
         </mxCell>
         <mxCell id="P6yN6gFKFcL5MRALm6-v-6" value="&lt;ul&gt;&lt;li&gt;Điều kiện sử dụng phép đối với đối tượng làm việc &amp;lt;= 12 tháng&lt;/li&gt;&lt;li&gt;Phép luỹ kế&lt;/li&gt;&lt;li&gt;Phép ứng&lt;/li&gt;&lt;li&gt;Parttime&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Phân ca&amp;nbsp;&lt;/li&gt;&lt;li&gt;Số công tối thiểu/tối đa&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -291,8 +291,8 @@
         <mxCell id="P6yN6gFKFcL5MRALm6-v-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P6yN6gFKFcL5MRALm6-v-14" target="4Uz1Zi8Dorlpba0Y4oC5-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P6yN6gFKFcL5MRALm6-v-14" value="&lt;ul&gt;&lt;li&gt;Cập nhật bảng chấm công&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Khi HR click vào cập nhật bảng chấm công. Tất cả thông tin được cập nhật lại&lt;/li&gt;&lt;li&gt;Cập nhật lại thông tin Đi muộn/về sớm theo đơn từ&amp;nbsp;&lt;/li&gt;&lt;li&gt;Cập nhật lại thông tin nghỉ phép, nghỉ lễ, làm thêm trên ngày phân ca tương ứng&lt;/li&gt;&lt;li&gt;Cập nhật lại dữ liệu chấm công, tính toán thời gian đi muộn/ về sớm, Nghỉ không phép, Công ca&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2110" y="330" width="260" height="350" as="geometry" />
+        <mxCell id="P6yN6gFKFcL5MRALm6-v-14" value="&lt;ul&gt;&lt;li&gt;Cập nhật bảng chấm công&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Khi HR click vào cập nhật bảng chấm công. Tất cả thông tin được cập nhật lại&lt;/li&gt;&lt;li&gt;Cập nhật lại thông tin Đi muộn/về sớm theo đơn từ&amp;nbsp;&lt;/li&gt;&lt;li&gt;Cập nhật lại thông tin nghỉ phép, nghỉ lễ, làm thêm trên ngày phân ca tương ứng&lt;/li&gt;&lt;li&gt;Cập nhật lại dữ liệu chấm công, tính toán thời gian đi muộn/ về sớm, Nghỉ không phép, Công ca&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Chỉ cập nhật lại ngày công cho những ngày &amp;lt;= ngày hiện tại&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Dữ liệu chấm công tương lai chưa có, chưa thể xử lý Phép, đi muộn/ về sớm/ làm thêm&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Trường hợp Làm thêm vào ngày nghỉ phép&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Vẫn tính công làm thêm, vẫn tính ngày công chính thức&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;size=0.04;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2020" y="180" width="350" height="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
