@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T07:11:56.653Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="zeFQmvXMe-xtogiHJ7T-" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T07:22:57.383Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="t30UdhVM-9zJFsA966Uy" version="13.11.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3348" dy="2156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -405,7 +405,7 @@
         <mxCell id="BBbbB4oVYTVjE95bEfU--26" value="Chi tiết danh sách vị trí&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="4060" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BBbbB4oVYTVjE95bEfU--27" value="&lt;ul&gt;&lt;li&gt;Quy trình và giai đoạn&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Danh sách ứng viên tương ứng với các quy trình&amp;nbsp;&lt;/li&gt;&lt;li&gt;Mối quan hệ Table - card, có thể drag and drop&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Danh sách ứng viên&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;STT&lt;/li&gt;&lt;li&gt;Tên&lt;/li&gt;&lt;li&gt;SĐT&lt;/li&gt;&lt;li&gt;Email&lt;/li&gt;&lt;li&gt;CV đính kèm&lt;/li&gt;&lt;li&gt;Giai đoạn&amp;nbsp;&lt;/li&gt;&lt;li&gt;Người giới thiệu&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Lịch&amp;nbsp;&lt;/li&gt;&lt;li&gt;Thông tin Vị trí tuyển dụng&lt;/li&gt;&lt;li&gt;Đánh giá ứng viên: File đính kèm&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1875;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BBbbB4oVYTVjE95bEfU--27" value="&lt;ul&gt;&lt;li&gt;Quy trình và giai đoạn&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Danh sách ứng viên tương ứng với các quy trình&amp;nbsp;&lt;/li&gt;&lt;li&gt;Mối quan hệ Table - card, có thể drag and drop&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Danh sách ứng viên&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;STT&lt;/li&gt;&lt;li&gt;Tên&lt;/li&gt;&lt;li&gt;SĐT&lt;/li&gt;&lt;li&gt;Email&lt;/li&gt;&lt;li&gt;CV đính kèm&lt;/li&gt;&lt;li&gt;Giai đoạn&amp;nbsp;&lt;/li&gt;&lt;li&gt;Người giới thiệu&amp;nbsp;&lt;/li&gt;&lt;li&gt;Đánh giá ứng viên: File đính kèm&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Lịch&amp;nbsp;&lt;/li&gt;&lt;li&gt;Thông tin Vị trí tuyển dụng&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.09090909090909091;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="4480" y="1310" width="270" height="275" as="geometry" />
         </mxCell>
       </root>
