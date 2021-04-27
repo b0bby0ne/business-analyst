@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T06:39:18.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="LaDV_P1pHuMfHl_rCa2v" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T06:40:35.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="dq70cybbgFNyDZbSsWHB" version="14.6.1" type="github">
   <diagram id="8TFS_j_TLSls43iOxlS7" name="Page-1">
     <mxGraphModel dx="3220" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -271,7 +271,7 @@
         <mxCell id="yjoC8Qj8-4mclsil2E_k-151" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontSize=14;" vertex="1" parent="yjoC8Qj8-4mclsil2E_k-24">
           <mxGeometry x="1730" width="450" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="yjoC8Qj8-4mclsil2E_k-264" value="Release Checklist&amp;nbsp;&lt;br&gt;&lt;br&gt;Relase Note" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fontSize=14;" vertex="1" parent="yjoC8Qj8-4mclsil2E_k-151">
+        <mxCell id="yjoC8Qj8-4mclsil2E_k-264" value="Release Checklist&amp;nbsp;&lt;br&gt;&lt;br&gt;Release Note" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fontSize=14;" vertex="1" parent="yjoC8Qj8-4mclsil2E_k-151">
           <mxGeometry x="40" y="26" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yjoC8Qj8-4mclsil2E_k-261" value="Release" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="yjoC8Qj8-4mclsil2E_k-151">
