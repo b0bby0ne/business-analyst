@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T06:37:29.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="6jWwpxDJnNSQVb8NbRuX" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T06:39:18.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="LaDV_P1pHuMfHl_rCa2v" version="14.6.1" type="github">
   <diagram id="8TFS_j_TLSls43iOxlS7" name="Page-1">
-    <mxGraphModel dx="2881" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3220" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,6 +215,12 @@
         <mxCell id="yjoC8Qj8-4mclsil2E_k-272" value="&lt;span&gt;Receive bug/error/false&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=14;" vertex="1" parent="L1drhOfGT1k_IEQDAH0R-9">
           <mxGeometry x="140" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yjoC8Qj8-4mclsil2E_k-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;dashed=1;dashPattern=1 4;" edge="1" parent="L1drhOfGT1k_IEQDAH0R-9" source="yjoC8Qj8-4mclsil2E_k-275" target="yjoC8Qj8-4mclsil2E_k-272">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yjoC8Qj8-4mclsil2E_k-275" value="Tiếp nhận lỗi từ khách hàng" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=14;" vertex="1" parent="L1drhOfGT1k_IEQDAH0R-9">
+          <mxGeometry x="250" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="yjoC8Qj8-4mclsil2E_k-143" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontSize=14;" vertex="1" parent="L1drhOfGT1k_IEQDAH0R-6">
           <mxGeometry x="1240" width="490" height="704" as="geometry" />
         </mxCell>
@@ -329,6 +335,9 @@
         </mxCell>
         <mxCell id="yjoC8Qj8-4mclsil2E_k-259" value="Final&amp;nbsp;assurance" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="yjoC8Qj8-4mclsil2E_k-147">
           <mxGeometry x="240" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjoC8Qj8-4mclsil2E_k-274" value="No bug" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=14;" vertex="1" parent="yjoC8Qj8-4mclsil2E_k-147">
+          <mxGeometry x="300" y="20" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yjoC8Qj8-4mclsil2E_k-153" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontSize=14;" vertex="1" parent="yjoC8Qj8-4mclsil2E_k-32">
           <mxGeometry x="1730" width="450" height="295" as="geometry" />
