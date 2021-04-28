@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T06:48:43.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="qPhpdGvWrHXnImHYqLvT" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-28T03:04:24.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="MQkAdZ2CBEYuxIrJs28M" version="14.6.1" type="github">
   <diagram id="8TFS_j_TLSls43iOxlS7" name="Page-1">
-    <mxGraphModel dx="3220" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2523" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,7 +206,7 @@
         <mxCell id="yjoC8Qj8-4mclsil2E_k-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=14;" edge="1" parent="L1drhOfGT1k_IEQDAH0R-8" source="yjoC8Qj8-4mclsil2E_k-157" target="yjoC8Qj8-4mclsil2E_k-177">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yjoC8Qj8-4mclsil2E_k-229" value="CM&lt;br style=&quot;font-size: 14px;&quot;&gt;Kick-off MTG" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fontSize=14;" vertex="1" parent="L1drhOfGT1k_IEQDAH0R-8">
+        <mxCell id="yjoC8Qj8-4mclsil2E_k-229" value="PM checklist (CM,&lt;br style=&quot;font-size: 14px&quot;&gt;Kick-off MTG)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fontSize=14;" vertex="1" parent="L1drhOfGT1k_IEQDAH0R-8">
           <mxGeometry x="10" y="420" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="L1drhOfGT1k_IEQDAH0R-9" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontSize=14;" parent="L1drhOfGT1k_IEQDAH0R-6" vertex="1">
@@ -271,7 +271,7 @@
         <mxCell id="yjoC8Qj8-4mclsil2E_k-151" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontSize=14;" vertex="1" parent="yjoC8Qj8-4mclsil2E_k-24">
           <mxGeometry x="1730" width="450" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="yjoC8Qj8-4mclsil2E_k-264" value="Release Checklist&amp;nbsp;&lt;br&gt;&lt;br&gt;Release Note" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fontSize=14;" vertex="1" parent="yjoC8Qj8-4mclsil2E_k-151">
+        <mxCell id="yjoC8Qj8-4mclsil2E_k-264" value="PM Checklist (Release Checklist,&amp;nbsp;&lt;br&gt;Release Note)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fontSize=14;" vertex="1" parent="yjoC8Qj8-4mclsil2E_k-151">
           <mxGeometry x="40" y="26" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yjoC8Qj8-4mclsil2E_k-261" value="Release" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="yjoC8Qj8-4mclsil2E_k-151">
